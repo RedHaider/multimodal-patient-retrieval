@@ -1,0 +1,9 @@
+model,condition,precision_at_5_mean,precision_ci95_low,precision_ci95_high,mrr_mean,mrr_ci95_low,mrr_ci95_high
+global_fusion,clean,0.7282,0.6667,0.7897,0.8531,0.8157,0.8905
+global_fusion,image_missing,0.6427,0.6011,0.6843,0.7953,0.7626,0.8281
+global_fusion,clinical_missing,0.6699,0.5966,0.7432,0.8184,0.7703,0.8664
+global_fusion,mixed_missing,0.5838,0.5389,0.6287,0.7352,0.7132,0.7572
+availability_aware,clean,0.7290,0.6671,0.7909,0.8508,0.8148,0.8868
+availability_aware,image_missing,0.6524,0.6093,0.6955,0.7977,0.7667,0.8287
+availability_aware,clinical_missing,0.6886,0.6089,0.7683,0.8207,0.7697,0.8716
+availability_aware,mixed_missing,0.5955,0.5487,0.6423,0.7475,0.7279,0.7672
