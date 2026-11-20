@@ -1,0 +1,14 @@
+{
+  "clinical_only": {
+    "precision_at_5": 0.4076,
+    "mean_reciprocal_rank": 0.614263754185193
+  },
+  "fused": {
+    "precision_at_5": 0.7476,
+    "mean_reciprocal_rank": 0.858401752822341
+  },
+  "image_only": {
+    "precision_at_5": 0.726,
+    "mean_reciprocal_rank": 0.8482029958137101
+  }
+}
